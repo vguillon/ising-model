@@ -102,6 +102,6 @@ The program can generate the datas of the average magnetization, energy, magneti
 
 ![spins configurations at the Curie temperature](https://github.com/vguillon/ising-model/blob/main/images/spinsConfigAtTc.png)
 
-![average quantities of the 2D Ising model](https://github.com/vguillon/ising-model/blob/main/images/averages.pdf)
+![average quantities of the 2D Ising model](https://github.com/vguillon/ising-model/blob/main/images/averages.png)
 
-![Binder cumulant](https://github.com/vguillon/ising-model/blob/main/images/binderCumulant.pdf) 
+![Binder cumulant](https://github.com/vguillon/ising-model/blob/main/images/binderCumulant.png) 
