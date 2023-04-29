@@ -94,3 +94,14 @@ like:
 ```
 
 This conversion is WANTED and if you run the program it will work perfectly as expected.
+
+
+# Results 
+
+The program can generate the datas of the average magnetization, energy, magnetic susceptibility and specific heat both for the one dimensional and the two dimensional (square lattice) Ising model. In the 2D case, it can also produce the spins configuration at a given temperature as well as the Binder fourth order cumulant (used the determine the critical temperature). Few results (in 2D) are shown hereinafter. 
+
+![spins configurations at the Curie temperature](https://github.com/vguillon/ising-model/blob/main/images/spinsConfigAtTc.pdf)
+
+![average quantities of the 2D Ising model](https://github.com/vguillon/ising-model/blob/main/images/averages.pdf)
+
+![Binder cumulant](https://github.com/vguillon/ising-model/blob/main/images/binderCumulant.pdf) 
